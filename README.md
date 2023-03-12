@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/VasilievPavelP/evil-form/branch/master/graph/badge.svg)](https://codecov.io/gh/VasilievPavelP/evil-form)
 ![License](https://img.shields.io/github/license/VasilievPavelP/evil-form)
 
-DEMO(https://vasilievpavelp.github.io/evil-form/)
+![DEMO](https://vasilievpavelp.github.io/evil-form/)
 
 ## Get Started:
 

@@ -1,3 +1,7 @@
+![CI/CD](https://github.com/VasilievPavelP/evil-form/workflows/CI/CD/badge.svg)
+[![Codecov](https://img.shields.io/codecov/c/github/VasilievPavelP/evil-form)](https://codecov.io/gh/VasilievPavelP/evil-form)
+![License](https://img.shields.io/github/license/VasilievPavelP/evil-form)
+
 ## Get Started:
 
 ```
@@ -10,7 +14,7 @@ $ npm i
 
 ## Scripts:
 
-- <span style='color: #20c997; font-weight: 500'>To run app in development mode</span>
+<!-- - <span style='color: #20c997; font-weight: 500'>To run app in development mode</span>
 
 ```js
   $ npm start
@@ -38,4 +42,4 @@ $ npm i
 
 ```js
   $ npm run format
-```
+``` -->

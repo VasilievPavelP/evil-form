@@ -1,5 +1,5 @@
-![CI/CD](https://github.com/VasilievPavelP/evil-form/workflows/ci.yml/badge.svg)
-[![Codecov](https://img.shields.io/codecov/c/github/VasilievPavelP/evil-form)](https://codecov.io/gh/VasilievPavelP/evil-form)
+![CI/CD](https://github.com/VasilievPavelP/evil-form/workflows/CI/CD/badge.svg)
+[![codecov](https://codecov.io/gh/VasilievPavelP/evil-form/branch/master/graph/badge.svg)](https://codecov.io/gh/VasilievPavelP/evil-form)
 ![License](https://img.shields.io/github/license/VasilievPavelP/evil-form)
 
 ## Get Started:
